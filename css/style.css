@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.bg-background{
+    background-color: #FFF9F4;
+}
+
+.text-nike{
+    color: rgba(250, 128, 76, 1);
+}
+
+.font-nike{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.font-cs-size{
+    font-size: 80px;
+}
+
+.btn-nike{
+    background-image: linear-gradient(#3D4FF3 100%, #3543BC 20%);
+}
+
+.bg-shoes{
+    background-color: #F1F1F1;
+}
+
+.text-price{
+    color: #FA804C;
+}
